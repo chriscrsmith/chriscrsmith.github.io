@@ -8,7 +8,9 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'People',   url: 'people.html'}
+- {name: 'Contact', url: 'research.html'}
 - {name: 'Publications', url: 'publications.html'}
+- {name: 'Software', url: 'software.html'}
 - {name: 'Contact', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
