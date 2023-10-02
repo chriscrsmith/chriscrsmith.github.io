@@ -8,7 +8,7 @@ permalink: /publications
 
 ## Publications
 
-{% assign mainpubs = site.publications | where_exp:"pub" | sort: "year" | reverse %}
+{% assign mainpubs = site.publications | sort: "year" | reverse %}
 
 {% for pub in mainpubs %}
 {% if pub.journal %}
