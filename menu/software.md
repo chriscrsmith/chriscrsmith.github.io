@@ -1,5 +1,5 @@
 ---
 layout: page
-title: People
-permalink: /people
+title: Software
+permalink: /software
 ---
