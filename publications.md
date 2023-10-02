@@ -10,11 +10,11 @@ permalink: /publications
 
 #### Preprints
 **Smith CC**, Kern AD.\
-disperseNN2: a neural network for estimating dispersal rate from georeferenced polymor- phism data.\
+disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
 *bioRxiv*. 2023:2023-07. (in review at BMC Bioinformatics).
 
 Innes P, **Smith CC**, Goebl A, Kane NC.\
-Gene expression and alternative splicing may contribute to adaptive divergence in sun- flower ecotypes.\
+Gene expression and alternative splicing may contribute to adaptive divergence in sunflower ecotypes.\
 *bioRxiv*. 2023:2023-04. (in review at Heredity).
 
 #### In print
@@ -26,8 +26,8 @@ Machine learning speeds up genetic structure analysis.\
 Dispersal inference from population genetic variation using a convolutional neural network.\
 *Genetics*. Jun;224(2):iyad068.
 
-Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Jana Obs ̆teter J, Pavinato VAC, Pearson A, Peede D, Perez MF, Rodrigues MF, **Smith CC**, Spence JP, Anastasia Teterina, Silas Tittes, Unneberg P, Vazquez JM, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelle- her J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I.\
-Expanding the stdpopsim species catalogue, and lessons learned from realistic genome sim- ulations.\
+Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Jana Obs ̆teter J, Pavinato VAC, Pearson A, Peede D, Perez MF, Rodrigues MF, **Smith CC**, Spence JP, Anastasia Teterina, Silas Tittes, Unneberg P, Vazquez JM, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I.\
+Expanding the stdpopsim species catalogue, and lessons learned from realistic genome simulations.\
 *eLife*. Jun 21;12:RP84874.
 
 Turbek SP, Schield DR, Scordato ES, Contina A, Da XW, Liu Y, Liu Y, Pagani-Núñez E, Ren QM, **Smith CC**, Stricker CA, Wunder M, Zonana DM, Safran RJ.\
@@ -63,7 +63,7 @@ Book Review: Molecular population genetics. Matthew Hahn.\
 *Molecular Ecology*. Dec;27(24):4976-7. (invited review; all authors contributed equally)
 
 **Smith CC**, Flaxman SM, Scordato ES, Kane NC, Hund AK, Sheta BM, Safran RJ.\
-Demographic inference in barn swallows using whole-genome data shows signal for bot- tleneck and subspecies differentiation during the Holocene.\
+Demographic inference in barn swallows using whole-genome data shows signal for bottleneck and subspecies differentiation during the Holocene.\
 *Molecular Ecology*. Nov;27(21):4200-12.
 
 **Smith CC**, Tittes S, Mendieta JP, Collier-zans E, Rowe HC, Rieseberg LH, Kane NC.\
