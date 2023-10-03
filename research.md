@@ -25,6 +25,11 @@ This method is useful for identifying barriers to migration, source-sink dynamic
 Smith et al. 2023, *Genetics*\
 Smith and Kern 2023, *bioRxiv*
 
+###### Software:
+disperseNN
+disperseNN2
+mapNN
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -42,7 +47,7 @@ Smith and Kern 2023, *bioRxiv*
 ![stdpopsim](assets/img/stdpopsim.jpg)
 
 To improve our inferences in population genomics it behooves us to incorporate as much biological detail as possible into our simulations.
-To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, stdpopsim, that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all.
+To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, [stdpopsim](https://popsim-consortium.github.io/stdpopsim-docs/stable/index.html), that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all.
 An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods.
 Currently I am working on a PopSim Consortium analysis to implement models of genome wide natural selection.
 
@@ -83,7 +88,13 @@ I have an ongoing collaboration with the Safran Lab to analyze the geographic po
 
 ![splicing](assets/img/splicing.jpg)
 
-With Dr. Nolan Kane and colleagues, I found differentially-spliced mRNA isoforms between wild and domesticated sunflowers (*Helianthus annuus*). My study is one of the first to explore transcriptome-wide splicing differentiation between closely related, non-human populations using next-generation sequencing. Most domesticate-associated splice forms were present in the wild population, suggesting they arose from standing variation and gained frequency during the domestication process, however several appeared to have introgressed from other wild sunflower species. Next, I discovered incorrectly-spliced transcripts in hybrid sunflowers. The erroneous transcripts negatively affected seedling growth rate, and many were regulated by multiple alleles with nonadditive interactions. These findings suggest that splicing errors could be the molecular manifestation of small-effect genetic incompatibilities. To characterize the role of splicing in population divergence more generally, we must study additional diverging populations or species. In this research area, I am collaborating with the Kane Lab where we have identified divergent splice forms in a dune-adapted population of H. petiolaris.
+With Dr. Nolan Kane and colleagues I found differentially-spliced mRNA isoforms between wild and domesticated sunflowers (*Helianthus annuus*).
+Ours is one of the first studies to explore transcriptome-wide splicing differentiation between closely related, non-human populations.
+Next, I discovered incorrectly-spliced transcripts in hybrid sunflowers.
+The erroneous transcripts were negatively associated with seedling growth rate, and many were regulated by multiple alleles with nonadditive interactions.
+These findings suggest that splicing errors could be the molecular manifestation of small-effect genetic incompatibilities.
+To characterize the role of splicing in population divergence more generally, we must study additional diverging populations or species.
+In this research area, I am working with the Kane Lab to study divergent splice forms in a dune-adapted population of *H. petiolaris*.
 
 ###### Relevant publications:
 Smith et al. 2018, *PNAS*\
