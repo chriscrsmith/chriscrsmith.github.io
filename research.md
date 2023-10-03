@@ -69,7 +69,7 @@ Currently I am working on a PopSim Consortium analysis to implement models of ge
 
 In collaboration with Dr. Rebecca Safran’s lab, I hypothesized and compared different models of population history for a widely-distributed species, barn swallows (*Hirundo rustica*), using whole genome sequencing data.
 My analysis indicated subspecies divergence to be an order of magnitude more recent than the previously published estimate that was based on mitochondrial DNA.
-I have an ongoing collaboration with the Safran Lab to analyze the geographic population history of the barn swallow subspecies using phylogenetic approaches.
+I have an ongoing collaboration with the Safran Lab where we are analyzing the geographic population history of the barn swallow subspecies using phylogenetic approaches.
 
 ###### Relevant publications:
 (Smith et al. 2018, *Molecular Ecology*).
