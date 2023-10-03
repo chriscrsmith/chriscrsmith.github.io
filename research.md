@@ -26,8 +26,8 @@ Smith et al. 2023, *Genetics*\
 Smith and Kern 2023, *bioRxiv*
 
 ###### Software:
-disperseNN
-disperseNN2
+[disperseNN](https://github.com/kr-colab/disperseNN)\
+[disperseNN2](https://dispersenn2.readthedocs.io/en/latest/)\
 mapNN
 
 &nbsp;
