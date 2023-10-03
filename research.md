@@ -40,7 +40,10 @@ Smith and Kern 2023, *bioRxiv*
 
 ![stdpopsim](assets/img/stdpopsim.jpg)
 
-Last, I am contributing to projects related to simulations and best practices in population genomics. To improve our inferences in population genomics it behooves us to incorporate as much biological detail as possible into our simulations. To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, stdpopsim, that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all. An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods. Our most recent publication (Lauterbur et al. 2023, eLife) highlights new species that were added to stdpopsim, including non-model species. Currently I am working with the PopSim consortium to implement models of genome wide natural selection.
+To improve our inferences in population genomics it behooves us to incorporate as much biological detail as possible into our simulations.
+To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, stdpopsim, that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all.
+An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods.
+Currently I am working on a PopSim Consortium analysis to implement models of genome wide natural selection.
 
 &nbsp;
 &nbsp;
