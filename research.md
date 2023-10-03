@@ -34,6 +34,7 @@ mapNN
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
 
 
 
@@ -55,6 +56,7 @@ Currently I am working on a PopSim Consortium analysis to implement models of ge
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
 
 
 
@@ -72,6 +74,7 @@ I have an ongoing collaboration with the Safran Lab to analyze the geographic po
 ###### Relevant publications:
 (Smith et al. 2018, *Molecular Ecology*).
 
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
