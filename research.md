@@ -5,7 +5,6 @@ permalink: /research
 ---
 
 
-I just started this website. Bear with me as a flesh this section out...
 
 
 #### Machine learning tools for spatial demographic inference
@@ -14,7 +13,7 @@ I just started this website. Bear with me as a flesh this section out...
 
 Genetic variation is shaped in part by a population’s ability to disperse, and by the density of individuals in the habitat. Obtaining estimates for such parameters is important for studying range shifts in response to climate change, genomic clines across hybrid zones, phylogeography, and the spread of adaptive alleles through space; and is important for more applied research in conservation, managing disease-vector populations, and wildlife biology. A promising strategy for inferring demographic parameters is using spatial genomic data. However, current genetics-based methods have constraints that prevent their use in many species, leaving a critical gap in our methods toolbox.
 
-During my postdoc I have developed machine learning models for estimating dispersal rate from population genetic data.
+During my postdoc I have developed machine learning approaches for estimating dispersal rate from population genetic data.
 Next, I have developed a machine learning model for estimating maps of population density and dispersal across a landscape.
 As before, this tool works with unphased SNP data and relatively small sample sizes. This method is useful for identifying barriers to migration, source-sink dynamics, or population-dense areas, and we have applied it to publicly available North American Grey Wolf data. I am currently writing a manuscript for this project.
 These methods can be used with single nucleotide polymorphism datasets, making it possible to infer dispersal rate for species with limited genomic resources.
@@ -22,6 +21,11 @@ These methods can be used with single nucleotide polymorphism datasets, making i
 ###### Relevant publications:
 Smith et al. 2023, *Genetics*\
 Smith and Kern 2023, *bioRxiv*
+
+&nbsp;
+&nbsp;
+
+
 
 
 
@@ -33,6 +37,8 @@ Smith and Kern 2023, *bioRxiv*
 
 Last, I am contributing to projects related to simulations and best practices in population genomics. To improve our inferences in population genomics it behooves us to incorporate as much biological detail as possible into our simulations. To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, stdpopsim, that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all. An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods. Our most recent publication (Lauterbur et al. 2023, eLife) highlights new species that were added to stdpopsim, including non-model species. Currently I am working with the PopSim consortium to implement models of genome wide natural selection.
 
+&nbsp;
+&nbsp;
 
 
 
@@ -46,6 +52,10 @@ In collaboration with Dr. Rebecca Safran’s lab, I hypothesized and compared di
 
 ###### Relevant publications:
 (Smith et al. 2018, Molecular Ecology).
+
+&nbsp;
+&nbsp;
+
 
 
 
