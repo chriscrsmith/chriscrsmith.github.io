@@ -67,9 +67,10 @@ Currently I am working on a PopSim Consortium analysis to implement models of ge
 
 ![barnswallow](assets/img/barnswallow.jpg)
 
-In collaboration with Dr. Rebecca Safran’s lab, I hypothesized and compared different models of population history for a widely-distributed species, barn swallows (*Hirundo rustica*), using whole genome sequencing data.
+To conserve biodiversity it is important to understand how populations diverge into new species.
+In collaboration with Dr. Rebecca Safran’s lab, I analyzed the timescale of divergence between barn swallow subspecies (*Hirundo rustica*) using whole genome sequencing data.
 My analysis indicated subspecies divergence to be an order of magnitude more recent than the previously published estimate that was based on mitochondrial DNA.
-I have an ongoing collaboration with the Safran Lab where we are analyzing the geographic population history of the barn swallow subspecies using phylogenetic approaches.
+In this research area, I have an ongoing collaboration with the Safran Lab where we are analyzing the geographic population history of the barn swallow subspecies using phylogenetic approaches.
 
 ###### Relevant publications:
 (Smith et al. 2018, *Molecular Ecology*).
@@ -87,7 +88,7 @@ I have an ongoing collaboration with the Safran Lab where we are analyzing the g
 
 
 
-#### Alternative splicing in population differentiation
+#### Alternative splicing during population differentiation
 
 ![splicing](assets/img/splicing.jpg)
 
@@ -97,7 +98,7 @@ Next, I discovered incorrectly-spliced transcripts in hybrid sunflowers.
 The erroneous transcripts were negatively associated with seedling growth rate, and many were regulated by multiple alleles with nonadditive interactions.
 These findings suggest that splicing errors could be the molecular manifestation of small-effect genetic incompatibilities.
 To characterize the role of splicing in population divergence more generally, we must study additional diverging populations or species.
-In this research area, I am working with the Kane Lab to study divergent splice forms in a dune-adapted population of *H. petiolaris*.
+I am currently working with the Kane Lab to study divergent splice forms in a dune-adapted population of *H. petiolaris*.
 
 ###### Relevant publications:
 Smith et al. 2018, *PNAS*\
