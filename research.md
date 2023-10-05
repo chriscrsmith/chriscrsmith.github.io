@@ -9,7 +9,7 @@ permalink: /research
 
 #### Machine learning tools for spatial demographic inference
 
-![northamerica](assets/img/northamerica.jpg){: width="250" }
+![northamerica](assets/img/northamerica.jpg){: width="500" }
 
 Genetic variation is shaped in part by a population’s ability to disperse, and by the density of individuals in the habitat.
 Obtaining estimates for such parameters is important for studying range shifts in response to climate change, genomic clines across hybrid zones, phylogeography, and the spread of adaptive alleles through space; and is important for more applied research in conservation, managing disease-vector populations, and wildlife biology.
@@ -45,7 +45,7 @@ mapNN
 
 #### Community resources for simulating genetic data
 
-![stdpopsim](assets/img/stdpopsim.jpg)
+![stdpopsim](assets/img/stdpopsim.jpg){: width="500" }
 
 To improve our inferences in population genomics it behooves us to incorporate as much biological detail as possible into our simulations.
 To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, [stdpopsim](https://popsim-consortium.github.io/stdpopsim-docs/stable/index.html), that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all.
@@ -65,7 +65,7 @@ Currently I am working on a PopSim Consortium analysis to implement models of ge
 
 #### Inferring the timing of population differentiation
 
-![barnswallow](assets/img/barnswallow.jpg)
+![barnswallow](assets/img/barnswallow.jpg){: width="500" }
 
 To conserve biodiversity it is important to understand how populations diverge into new species.
 In collaboration with Dr. Rebecca Safran’s lab, I analyzed the timescale of divergence between barn swallow subspecies (*Hirundo rustica*) using whole genome sequencing data.
@@ -90,7 +90,7 @@ In this research area, I have an ongoing collaboration with the Safran Lab where
 
 #### Alternative splicing during population differentiation
 
-![splicing](assets/img/splicing.jpg)
+![splicing](assets/img/splicing.jpg){: width="500" }
 
 With Dr. Nolan Kane and colleagues I found differentially-spliced mRNA isoforms between wild and domesticated sunflowers (*Helianthus annuus*).
 Ours is one of the first studies to explore transcriptome-wide splicing differentiation between closely related, non-human populations.
