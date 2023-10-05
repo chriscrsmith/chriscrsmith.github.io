@@ -23,7 +23,7 @@ This method is useful for identifying barriers to migration, source-sink dynamic
 
 ###### Relevant publications:
 Smith et al. 2023, *Genetics*\
-Smith and Kern 2023, *bioRxiv*
+Smith and Kern 2023, *BMC Bioinformatics*
 
 ###### Software:
 [disperseNN](https://github.com/kr-colab/disperseNN)\
