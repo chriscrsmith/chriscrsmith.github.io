@@ -12,7 +12,7 @@ permalink: /publications
 #### In press
 **Smith CC**, Kern AD.\
 disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
-*bioRxiv*. 2023:2023-07. (in review at BMC Bioinformatics).
+*bioRxiv*. 2023:2023-07. (accepted at BMC Bioinformatics).
 
 #### Preprints
 Innes P, **Smith CC**, Goebl A, Kane NC.\
