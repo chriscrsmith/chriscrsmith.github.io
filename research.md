@@ -50,7 +50,7 @@ mapNN
 To improve our inferences in population genomics it behooves us to incorporate as much biological detail as possible into our simulations.
 To this end, I am working with the PopSim Consortium to develop and maintain a repository of population genetic simulations, [stdpopsim](https://popsim-consortium.github.io/stdpopsim-docs/stable/index.html), that provides literature-backed parameters for producing genomic data for various species in a package that is accessible to all.
 An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods.
-Currently I am working on a PopSim Consortium analysis to implement models of genome wide natural selection.
+We are right now working on an analysis implementing models of genome wide natural selection.
 
 &nbsp;
 &nbsp;
@@ -65,7 +65,7 @@ Currently I am working on a PopSim Consortium analysis to implement models of ge
 
 #### Inferring the timing of population differentiation
 
-![barnswallow](assets/img/barnswallow.jpg){: width="500" }
+![barnswallow](assets/img/barnswallow.jpg){: width="350" }
 
 To conserve biodiversity it is important to understand how populations diverge into new species.
 In collaboration with Dr. Rebecca Safran’s lab, I analyzed the timescale of divergence between barn swallow subspecies (*Hirundo rustica*) using whole genome sequencing data.
