@@ -1,4 +1,4 @@
----
+A---
 layout: page
 title: Research
 permalink: /research
@@ -9,7 +9,8 @@ permalink: /research
 
 #### Machine learning tools for spatial demographic inference
 
-![wolves](assets/img/northamerica.jpg)
+<!-- ![wolves](assets/img/northamerica.jpg) -->
+<img src="northamerica.jpg" alt="drawing" width="200"/>
 
 Genetic variation is shaped in part by a population’s ability to disperse, and by the density of individuals in the habitat.
 Obtaining estimates for such parameters is important for studying range shifts in response to climate change, genomic clines across hybrid zones, phylogeography, and the spread of adaptive alleles through space; and is important for more applied research in conservation, managing disease-vector populations, and wildlife biology.
