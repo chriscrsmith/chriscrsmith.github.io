@@ -8,11 +8,13 @@ permalink: /publications
 &nbsp;
 &nbsp;
 
-#### Preprints
+
+#### In press
 **Smith CC**, Kern AD.\
 disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
 *bioRxiv*. 2023:2023-07. (in review at BMC Bioinformatics).
 
+#### Preprints
 Innes P, **Smith CC**, Goebl A, Kane NC.\
 Gene expression and alternative splicing may contribute to adaptive divergence in sunflower ecotypes.\
 *bioRxiv*. 2023:2023-04. (in review at Heredity).
