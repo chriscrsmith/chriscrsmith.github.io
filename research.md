@@ -58,6 +58,8 @@ We are right now working on an analysis implementing models of genome wide natur
 &nbsp;
 &nbsp;
 
+###### Relevant publications:
+(Lauterbur et al. 2023, *eLife*).
 
 
 
@@ -103,7 +105,7 @@ I am currently working with the Kane Lab to study divergent splice forms in a du
 ###### Relevant publications:
 Smith et al. 2018, *PNAS*\
 Smith et al. 2021, *Evolution*
-
+Innes et al. 2023, *bioRxiv*
 
 
 
