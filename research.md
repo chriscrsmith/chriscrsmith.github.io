@@ -65,7 +65,7 @@ We are right now working on an analysis implementing models of genome wide natur
 
 #### Inferring the timing of population differentiation
 
-![barnswallow](assets/img/barnswallow.jpg){: width="350" }
+![barnswallow](assets/img/barnswallow.jpg){: width="500" }
 
 To conserve biodiversity it is important to understand how populations diverge into new species.
 In collaboration with Dr. Rebecca Safran’s lab, I analyzed the timescale of divergence between barn swallow subspecies (*Hirundo rustica*) using whole genome sequencing data.
