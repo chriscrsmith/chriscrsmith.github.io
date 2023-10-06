@@ -52,14 +52,16 @@ To this end, I am working with the PopSim Consortium to develop and maintain a r
 An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods.
 We are right now working on an analysis implementing models of genome wide natural selection.
 
+###### Relevant publications:
+Lauterbur et al. 2023, *eLife*
+
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
 
-###### Relevant publications:
-(Lauterbur et al. 2023, *eLife*).
+
 
 
 
@@ -75,7 +77,7 @@ My analysis indicated subspecies divergence to be an order of magnitude more rec
 In this research area, I have an ongoing collaboration with the Safran Lab where we are analyzing the geographic population history of the barn swallow subspecies using phylogenetic approaches.
 
 ###### Relevant publications:
-(Smith et al. 2018, *Molecular Ecology*).
+Smith et al. 2018, *Molecular Ecology*
 
 &nbsp;
 &nbsp;
@@ -104,7 +106,7 @@ I am currently working with the Kane Lab to study divergent splice forms in a du
 
 ###### Relevant publications:
 Smith et al. 2018, *PNAS*\
-Smith et al. 2021, *Evolution*
+Smith et al. 2021, *Evolution*\
 Innes et al. 2023, *bioRxiv*
 
 
