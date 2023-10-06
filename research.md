@@ -12,7 +12,7 @@ permalink: /research
 ![northamerica](assets/img/northamerica.jpg){: width="500" }
 
 Genetic variation is shaped in part by a population’s ability to disperse, and by the density of individuals in the habitat.
-Obtaining estimates for such parameters is important for studying range shifts in response to climate change, genomic clines across hybrid zones, phylogeography, and the spread of adaptive alleles through space; and is important for more applied research in conservation, managing disease-vector populations, and wildlife biology.
+Obtaining estimates for such parameters is important for studying range shifts in response to climate change, genomic clines across hybrid zones, phylogeography, and the spread of adaptive alleles through space.
 A promising strategy for inferring demographic parameters is using spatial genomic data.
 However, current genetics-based methods have constraints that prevent their use in many species, leaving a critical gap in our methods toolbox.
 
@@ -28,7 +28,7 @@ Smith and Kern 2023, *BMC Bioinformatics*
 ###### Software:
 [disperseNN](https://github.com/kr-colab/disperseNN)\
 [disperseNN2](https://dispersenn2.readthedocs.io/en/latest/)\
-mapNN
+mapNN (forthcoming)
 
 &nbsp;
 &nbsp;
