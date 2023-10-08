@@ -52,9 +52,6 @@ To this end, I am working with the PopSim Consortium to develop and maintain a r
 An important goal of this ongoing project is to provide a standardized framework for comparing empirical results and validating new inference methods.
 We are right now working on an analysis implementing models of genome wide natural selection.
 
-###### Relevant publications:
-Lauterbur et al. 2023, *eLife*
-
 &nbsp;
 &nbsp;
 &nbsp;
