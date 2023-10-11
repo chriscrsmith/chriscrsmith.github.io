@@ -15,7 +15,7 @@ Gene expression and alternative splicing may contribute to adaptive divergence i
 *bioRxiv*. 2023:2023-04. (in review at Heredity).
 
 #### In print
-**Smith CC**, Kern AD.\       
+**Smith CC**, Kern AD.\
 disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
 *BMC Bioinformatics*. 2023. Oct.
 
