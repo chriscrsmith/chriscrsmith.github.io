@@ -9,17 +9,16 @@ permalink: /publications
 &nbsp;
 
 
-#### In press
-**Smith CC**, Kern AD.\
-disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
-*BMC Bioinformatics*.
-
 #### Preprints
 Innes P, **Smith CC**, Goebl A, Kane NC.\
 Gene expression and alternative splicing may contribute to adaptive divergence in sunflower ecotypes.\
 *bioRxiv*. 2023:2023-04. (in review at Heredity).
 
 #### In print
+**Smith CC**, Kern AD.\       
+disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
+*BMC Bioinformatics*. 2023. Oct.
+
 **Smith CC**.\
 Machine learning speeds up genetic structure analysis.\
 *Nature Computational Science*. 2023. Jul 6:1-2. (invited review; not peer-reviewed)
