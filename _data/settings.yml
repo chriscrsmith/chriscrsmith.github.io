@@ -1,8 +1,8 @@
 menu:
-- {name: 'people', url: '/people'}
 - {name: 'research', url: '/research'}
 - {name: 'publications', url: '/publications'}
 - {name: 'software', url: '/software'}
+- {name: 'people', url: '/people'}
 - {name: 'contact', url: '/contact'}
 
 people:
