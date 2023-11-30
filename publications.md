@@ -9,23 +9,22 @@ permalink: /publications
 &nbsp;
 
 
-#### Preprints
-Innes P, **Smith CC**, Goebl A, Kane NC.\
-Gene expression and alternative splicing may contribute to adaptive divergence in sunflower ecotypes.\
-*bioRxiv*. 2023:2023-04. (in review at Heredity).
-
 #### In print
 **Smith CC**, Kern AD.\
 disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.\
 *BMC Bioinformatics*. 2023. Oct.
 
+**Smith CC**, Silas Tittes, Ralph PL, Kern AD.\
+Dispersal inference from population genetic variation using a convolutional neural network.\
+*Genetics*. 2023. Jun;224(2):iyad068.
+
 **Smith CC**.\
 Machine learning speeds up genetic structure analysis.\
 *Nature Computational Science*. 2023. Jul 6:1-2. (invited review; not peer-reviewed)
 
-**Smith CC**, Silas Tittes, Ralph PL, Kern AD.\
-Dispersal inference from population genetic variation using a convolutional neural network.\
-*Genetics*. 2023. Jun;224(2):iyad068.
+Innes P, **Smith CC**, Goebl A, Kane NC.\
+Gene expression and alternative splicing may contribute to adaptive divergence in sunflower ecotypes.\
+*Heredity*. 2023. (recently accepted)
 
 Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Jana Obs ̆teter J, Pavinato VAC, Pearson A, Peede D, Perez MF, Rodrigues MF, **Smith CC**, Spence JP, Anastasia Teterina, Silas Tittes, Unneberg P, Vazquez JM, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I.\
 Expanding the stdpopsim species catalogue, and lessons learned from realistic genome simulations.\
@@ -59,10 +58,6 @@ Semenov GA, Safran RJ, **Smith CC**, Turbek SP, Mullen SP, Flaxman SM.\
 Unifying Theoretical and Empirical Perspectives on Genomic Differentiation.\
 *Trends in Ecology and Evolution*. 2019. Nov 1;34(11):987-95.
 
-**Smith CC**, Scordato ES, Taylor SA, Tittes S, Vergara D.\
-Book Review: Molecular population genetics. Matthew Hahn.\
-*Molecular Ecology*. 2018. Dec;27(24):4976-7. (invited review; all authors contributed equally)
-
 **Smith CC**, Flaxman SM, Scordato ES, Kane NC, Hund AK, Sheta BM, Safran RJ.\
 Demographic inference in barn swallows using whole-genome data shows signal for bottleneck and subspecies differentiation during the Holocene.\
 *Molecular Ecology*. 2018. Nov;27(21):4200-12.
@@ -70,6 +65,10 @@ Demographic inference in barn swallows using whole-genome data shows signal for 
 **Smith CC**, Tittes S, Mendieta JP, Collier-zans E, Rowe HC, Rieseberg LH, Kane NC.\
 Genetics of alternative splicing evolution during sunflower domestication.\
 *Proceedings of the National Academy of Sciences*. 2018. Jun 26;115(26):6768-73.
+
+**Smith CC**, Scordato ES, Taylor SA, Tittes S, Vergara D.\
+Book Review: Molecular population genetics. Matthew Hahn.\
+*Molecular Ecology*. 2018. Dec;27(24):4976-7. (invited review; all authors contributed equally)
 
 Semenov GA, Scordato ES, Khaydarov DR, **Smith CC**, Kane NC, Safran RJ.\
 Effects of assortative mate choice on the genomic and morphological structure of a hybrid zone between two bird subspecies.\
