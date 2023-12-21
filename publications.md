@@ -11,73 +11,74 @@ permalink: /publications
 
 #### In print
 **disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.**\
-Smith CC, Kern AD.\
-*BMC Bioinformatics*. 2023. Oct.
+*BMC Bioinformatics*. 2023. Oct.\
+Smith CC, Kern AD.
 
 **Dispersal inference from population genetic variation using a convolutional neural network.**\
-Smith CC, Silas Tittes, Ralph PL, Kern AD.\
-*Genetics*. 2023. Jun;224(2):iyad068.
+*Genetics*. 2023. Jun;224(2):iyad068.\
+Smith CC, Silas Tittes, Ralph PL, Kern AD.
 
 **Machine learning speeds up genetic structure analysis.**\
-Smith CC.\
-*Nature Computational Science*. 2023. Jul 6:1-2. (invited review; not peer-reviewed)
+*Nature Computational Science*. 2023. Jul 6:1-2. (invited review; not peer-reviewed)\
+Smith CC.
 
 **Gene expression and alternative splicing may contribute to adaptive divergence in sunflower ecotypes.**\
-Innes P, Smith CC, Goebl A, Kane NC.\
-*Heredity*. 2023. (recently accepted)
+*Heredity*. 2023. (recently accepted)\
+Innes P, Smith CC, Goebl A, Kane NC.
 
 **Expanding the stdpopsim species catalogue, and lessons learned from realistic genome simulations.**\
-Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Jana Obs ̆teter J, Pavinato VAC, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CC, Spence JP, Anastasia Teterina, Silas Tittes, Unneberg P, Vazquez JM, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I.\
-*eLife*. 2023. Jun 21;12:RP84874.
+*eLife*. 2023. Jun 21;12:RP84874.\
+Lauterbur ME, Cavassim MIA, Gladstein AL, Gower G, Pope NS, Tsambos G, Adrion J, Belsare S, Biddanda A, Caudill V, Cury J, Echevarria I, Haller BC, Hasan AR, Huang X, Iasi LNM, Noskova E, Jana Obs ̆teter J, Pavinato VAC, Pearson A, Peede D, Perez MF, Rodrigues MF, Smith CC, Spence JP, Anastasia Teterina, Silas Tittes, Unneberg P, Vazquez JM, Waples RK, Wohns AW, Wong Y, Baumdicker F, Cartwright RA, Gorjanc G, Gutenkunst RN, Kelleher J, Kern AD, Ragsdale AP, Ralph PL, Schrider DR, Gronau I.
 
 **A migratory divide spanning two continents is associated with genomic and ecological divergence.**\
-Turbek SP, Schield DR, Scordato ES, Contina A, Da XW, Liu Y, Liu Y, Pagani-Núñez E, Ren QM, Smith CC, Stricker CA, Wunder M, Zonana DM, Safran RJ.\
-*Evolution*. 2022. Apr 1;76(4):722-36.
+*Evolution*. 2022. Apr 1;76(4):722-36.\
+Turbek SP, Schield DR, Scordato ES, Contina A, Da XW, Liu Y, Liu Y, Pagani-Núñez E, Ren QM, Smith CC, Stricker CA, Wunder M, Zonana DM, Safran RJ.
 
 **Aberrant RNA splicing due to genetic incompatibilities in sunflower hybrids.**\
-Smith CC, Rieseberg LH, Hulke BS, Kane NC.\
-*Evolution*. 2021. Nov;75(11):2747-58.
+*Evolution*. 2021. Nov;75(11):2747-58.\
+Smith CC, Rieseberg LH, Hulke BS, Kane NC.
 
 **Sex-linked genetic diversity and differentiation in a globally distributed avian species complex.**\
-Schield DR, Scordato ES, Smith CC, Carter JK, Cherkaoui SI, Gombobaatar S, Hajib S, Hanane S, Hund AK, Koyama K, Liang W, Liu Y, Magri N, Rubtsov A, Sheta B, Turbek S, Wilkins M, Yu L, Safran RJ.\
-*Molecular Ecology*. 2021. May;30(10):2313-32.
+*Molecular Ecology*. 2021. May;30(10):2313-32.\
+Schield DR, Scordato ES, Smith CC, Carter JK, Cherkaoui SI, Gombobaatar S, Hajib S, Hanane S, Hund AK, Koyama K, Liang W, Liu Y, Magri N, Rubtsov A, Sheta B, Turbek S, Wilkins M, Yu L, Safran RJ.
 
 **The gut microbiota response to helminth infection depends on host sex and genotype.**\
-Ling F, Steinel N, Weber J, Ma L, Smith CC, Correa D, Zhu B, Bolnick D, Wang G.\
-*The ISME Journal*. 2020. May;14(5):1141-53.
+*The ISME Journal*. 2020. May;14(5):1141-53.\
+Ling F, Steinel N, Weber J, Ma L, Smith CC, Correa D, Zhu B, Bolnick D, Wang G.
 
 **Migratory divides coincide with reproductive barriers across replicated avian hybrid zones above the Tibetan Plateau.**\
-Scordato ES, Smith CC, Semenov GA, Liu Y, Wilkins MR, Liang W, Rubtsov A, Sundev G, Koyama K, Turbek SP, Wunder MB, Stricker CA, Safran RJ.\
-*Ecology Letters*. 2020. Feb;23(2):231-41.
+*Ecology Letters*. 2020. Feb;23(2):231-41.\
+Scordato ES, Smith CC, Semenov GA, Liu Y, Wilkins MR, Liang W, Rubtsov A, Sundev G, Koyama K, Turbek SP, Wunder MB, Stricker CA, Safran RJ.
 
 **Leveraging whole genome sequencing data for demographic inference with approximate Bayesian computation.**\
-Smith CC, Flaxman SM.\
-*Molecular Ecology Resources*. 2020. Jan;20(1):125-39.
+*Molecular Ecology Resources*. 2020. Jan;20(1):125-39.\
+Smith CC, Flaxman SM.
 
 **Unifying Theoretical and Empirical Perspectives on Genomic Differentiation.**\
-Semenov GA, Safran RJ, Smith CC, Turbek SP, Mullen SP, Flaxman SM.\
-*Trends in Ecology and Evolution*. 2019. Nov 1;34(11):987-95.
+*Trends in Ecology and Evolution*. 2019. Nov 1;34(11):987-95.\
+Semenov GA, Safran RJ, Smith CC, Turbek SP, Mullen SP, Flaxman SM.
 
 **Demographic inference in barn swallows using whole-genome data shows signal for bottleneck and subspecies differentiation during the Holocene.**\
-Smith CC, Flaxman SM, Scordato ES, Kane NC, Hund AK, Sheta BM, Safran RJ.\
-*Molecular Ecology*. 2018. Nov;27(21):4200-12.
+*Molecular Ecology*. 2018. Nov;27(21):4200-12.\
+Smith CC, Flaxman SM, Scordato ES, Kane NC, Hund AK, Sheta BM, Safran RJ.
 
 **Genetics of alternative splicing evolution during sunflower domestication.**\
-Smith CC, Tittes S, Mendieta JP, Collier-zans E, Rowe HC, Rieseberg LH, Kane NC.\
-*Proceedings of the National Academy of Sciences*. 2018. Jun 26;115(26):6768-73.
+*Proceedings of the National Academy of Sciences*. 2018. Jun 26;115(26):6768-73.\
+Smith CC, Tittes S, Mendieta JP, Collier-zans E, Rowe HC, Rieseberg LH, Kane NC.
 
 **Book Review: Molecular population genetics. Matthew Hahn.**\
-Smith CC, Scordato ES, Taylor SA, Tittes S, Vergara D.\
-*Molecular Ecology*. 2018. Dec;27(24):4976-7. (invited review; all authors contributed equally)
+*Molecular Ecology*. 2018. Dec;27(24):4976-7. (invited review; all authors contributed equally)\
+Smith CC, Scordato ES, Taylor SA, Tittes S, Vergara D.
 
 **Effects of assortative mate choice on the genomic and morphological structure of a hybrid zone between two bird subspecies.**\
-Semenov GA, Scordato ES, Khaydarov DR, Smith CC, Kane NC, Safran RJ.\
-*Molecular Ecology*. 2017. Nov;26(22):6430-44.
+*Molecular Ecology*. 2017. Nov;26(22):6430-44.\
+Semenov GA, Scordato ES, Khaydarov DR, Smith CC, Kane NC, Safran RJ.
 
 **Dietary input of microbes and host genetic variation shape among-population differences in stickleback gut microbiota.**\
-Smith CC, Snowberg LK, Caporaso JG, Knight R, Bolnick DI.\
-*The ISME journal*. 2015. Nov;9(11):2515-26.
+*The ISME journal*. 2015. Nov;9(11):2515-26.\
+Smith CC, Snowberg LK, Caporaso JG, Knight R, Bolnick DI.
 
 **Wolbachia do not live by reproductive manipulation alone: infection polymorphism in Drosophila suzukii and D. subpulchrella.**\
-Hamm CA, Begun DJ, Vo A, Smith CC, Saelao P, Shaver AO, Jaenike J, Turelli M.\
-*Molecular Ecology*. 2014. Oct;23(19):4871-85.
+*Molecular Ecology*. 2014. Oct;23(19):4871-85.\
+Hamm CA, Begun DJ, Vo A, Smith CC, Saelao P, Shaver AO, Jaenike J, Turelli M.
+
