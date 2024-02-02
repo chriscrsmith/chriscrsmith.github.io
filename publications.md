@@ -67,8 +67,8 @@ Smith CC, Flaxman SM, Scordato ES, Kane NC, Hund AK, Sheta BM, Safran RJ.
 Smith CC, Tittes S, Mendieta JP, Collier-zans E, Rowe HC, Rieseberg LH, Kane NC.
 
 **Book Review: Molecular population genetics. Matthew Hahn.**\
-*Molecular Ecology*. 2018. Dec;27(24):4976-7. (invited review; all authors contributed equally)\
-Smith CC, Scordato ES, Taylor SA, Tittes S, Vergara D.
+*Molecular Ecology*. 2018. Dec;27(24):4976-7. (invited review)\
+Smith CC, Scordato ES, Taylor SA, Tittes S, Vergara D. (all authors contributed equally)
 
 **Effects of assortative mate choice on the genomic and morphological structure of a hybrid zone between two bird subspecies.**\
 *Molecular Ecology*. 2017. Nov;26(22):6430-44.\
