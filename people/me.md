@@ -3,16 +3,17 @@ layout: page
 title: "Chris"
 ---
 
-Postdoctoral Fellow - Kern-Ralph Co-lab
+Postdoctoral Associate - Cooperative Institute for Research in Environmental Sciences
 
-University of Oregon - Eugene, Oregon
+University of Colorado Boulder - Boulder, CO
 
-Email: chriscs at uregon dot edu
+Email: chriscs at colorado dot edu
 
 ---
 
 
-Chris is an independently funded postdoc in the [Kern-Ralph Co-lab](https://kr-colab.github.io/) at the University of Oregon.
-Before that he was a PhD student in Sam Flaxman and Nolan Kane's labs at the University of Colorado Boulder.
+Chris is a postdoc in CIRES working with the Global Monitoring Laboratory at NOAA.
+Before that he was a postdoc fellow in the [Kern-Ralph Co-lab](https://kr-colab.github.io/) at the University of Oregon.
+Before *that* he was a PhD student in Sam Flaxman and Nolan Kane's labs at the University of Colorado Boulder.
 And before that he was a lab technician with Michael Turelli at UC Davis and an undergraduate with Dan Bolnick at UT Austin.
 

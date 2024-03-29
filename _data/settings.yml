@@ -6,7 +6,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Chris', title: 'Postdoctoral Fellow', department: 'Kern-Ralph Co-lab', institution: 'University of Oregon', institution_address: 'Eugene, Oregon', email: 'chriscs at uoregon dot edu', image: 'assets/img/headshot.jpg', url: 'me'}
+- {name: 'Chris', title: 'Postdoctoral Associate', department: 'Cooperative Institute for Research in Environmental Sciences', institution: 'University of Colorado Boulder', institution_address: 'Boulder, CO', email: 'chriscs at colorado dot edu', image: 'assets/img/headshot.jpg', url: 'me'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 #- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
@@ -21,4 +21,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Chris Smith', title: 'Postdoctoral Fellow', department: 'Kern-Ralph Co-lab', institution: 'University of Oregon', institution_address: 'Eugene, Oregon', email: 'chriscs at uoregon dot edu'}
+- {name: 'Chris Smith', title: 'Postdoctoral Associate', department: 'Cooperative Institute for Research in Environmental Sciences', institution: 'University of Colorado Boulder', institution_address: 'Boulder, CO', email: 'chriscs at colorado dot edu'}
