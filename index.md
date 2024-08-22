@@ -3,6 +3,9 @@ layout: home
 title: "Home"
 ---
 
-My research is focused on developing methods that are broadly applicable in ecology and evolution, and that leverage cutting edge technologies from nucleotide sequencing, computer simulations, and machine learning. In addition to developing new methods, I am applying them to real data, contributing to community resources for simulating genetic data, and enjoying collaborating with others to apply my methods to their study systems.
+My current research is focused on methods-development for applications in ecology, evolution, and environmental science.
+My research approach involves machine learning development, data science, and computation; and takes advantage of cutting edge data sources such as nucleotide sequencing and remote sensing.
+In addition to developing new methods, I am applying them to answer questions about the natural world, contributing to community software resources, and enjoying collaborating with others to apply my methods to their study systems.
+(For more information check out the "Research" tab.)
 
 

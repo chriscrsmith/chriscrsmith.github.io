@@ -10,8 +10,12 @@ permalink: /publications
 
 
 **Estimation of spatial demographic maps from polymorphism data using a neural network**\
-*bioRxiv*. 2024.\
+*Molecular Ecology Resources*. 2024.\
 Smith CC, G Patterson, PL Ralph, AD Kern.
+
+**Population genetics meets ecology: a guide to individual-based simulations in continuous landscapes.**\
+*bioRxiv*. 2024 \
+Chevy ET, Min J, Caudill V, Champer SE, Haller BC, Rehman CT, Smith CCR, Tittes S, Messer PW, Kern AD, Ramachandran S, Ralph PL.
 
 **disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.**\
 *BMC Bioinformatics*. 2023.\

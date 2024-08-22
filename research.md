@@ -21,14 +21,16 @@ These methods can be used with single nucleotide polymorphism datasets, making i
 Currently I am working on a tool for estimating maps of population density and dispersal across a landscape.
 This method is useful for identifying barriers to migration, source-sink dynamics, or population-dense areas, and I have applied it to publicly available North American grey wolf data.
 
-###### Relevant publications:
-Smith et al. 2023, *Genetics*\
-Smith and Kern 2023, *BMC Bioinformatics*
 
 ###### Software:
 [disperseNN](https://github.com/kr-colab/disperseNN)\
 [disperseNN2](https://dispersenn2.readthedocs.io/en/latest/)\
-mapNN (forthcoming)
+[mapNN](https://github.com/kr-colab/mapNN)\
+
+###### Relevant publications:
+Smith et al. 2023, *Genetics*\
+Smith and Kern 2023, *BMC Bioinformatics*\
+Smith et al. 2024, *Molecular Ecology Resources*
 
 &nbsp;
 &nbsp;
@@ -55,7 +57,8 @@ My analysis indicated subspecies divergence to be an order of magnitude more rec
 In this research area, I have an ongoing collaboration with the Safran Lab where we are analyzing the geographic population history of the barn swallow subspecies using phylogenetic approaches.
 
 ###### Relevant publications:
-Smith et al. 2018, *Molecular Ecology*
+Smith et al. 2018, *Molecular Ecology*\
+Smith and Flaxman, 2020, *Molecular Ecology Resources*
 
 &nbsp;
 &nbsp;
@@ -85,7 +88,19 @@ I am currently working with the Kane Lab to study divergent splice forms in a du
 ###### Relevant publications:
 Smith et al. 2018, *PNAS*\
 Smith et al. 2021, *Evolution*\
-Innes et al. 2023, *bioRxiv*
+Innes et al. 2023, *Heredity*
 
 
+
+
+#### Host-microbe interactions
+
+![microbes](assets/img/microbes.jpg){: width="500" }
+
+To explain differences in gut microbial communities we must determine how processes regulating microbial community assembly (colonization, persistence) differ among hosts and affect microbiota composition. With the Bolnick Lab, I studied natural populations of threespine stickleback (Gasterosteus aculeatus), a small fish, to identify major pathways of microbial colonization of the gastrointestinal tract. Using high-throughput 16S rRNA sequencing and bioinformatics, I found that sticklebacks from different lakes harbored different gut microbes, and that after controlling for food-associated and environmental microbes the gut microbiota appeared to be under genetic control. Next, I collaborated with the Bolnick Lab to examine changes in gut microbiota in response to macro-parasite infection. Our findings in sticklebacks are important for understanding the factors at play during population differentiation and for understanding the factors that may shape the gut microbiota more generally.
+
+
+###### Relevant publications:
+Smith et al. 2015, *ISME J*\
+LInk  et al. 2020, *ISME J*
 
