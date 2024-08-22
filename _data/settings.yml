@@ -17,7 +17,7 @@ people:
 
 social:
 - {icon: 'github', link: 'https://github.com/chriscrsmith'}
-- {icon: 'twitter', link: 'https://twitter.com/chriscrsmith'}
+#- {icon: 'twitter', link: 'https://twitter.com/chriscrsmith'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
