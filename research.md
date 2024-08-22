@@ -16,7 +16,7 @@ permalink: /research
 
 #### Machine learning tools for spatial demographic inference
 
-![northamerica](assets/img/northamerica.jpg){: width="500" }
+![northamerica](assets/img/northamerica.jpg){: width="750" }
 
 Genetic variation is shaped in part by a population’s ability to disperse, and by the density of individuals in the habitat.
 Obtaining estimates for such parameters is important for studying range shifts in response to climate change, genomic clines across hybrid zones, phylogeography, and the spread of adaptive alleles through space.
@@ -97,12 +97,21 @@ Smith et al. 2018, *PNAS*\
 Smith et al. 2021, *Evolution*\
 Innes et al. 2023, *Heredity*
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+
+
+
 
 
 
 #### Host-microbe interactions
 
-![microbes](assets/img/microbe.jpg){: width="500" }
+![microbes](assets/img/microbe.jpg){: width="250" }
 
 To explain differences in gut microbial communities we must determine how processes regulating microbial community assembly (colonization, persistence) differ among hosts and affect microbiota composition. With the Bolnick Lab, I studied natural populations of threespine stickleback (Gasterosteus aculeatus), a small fish, to identify major pathways of microbial colonization of the gastrointestinal tract. Using high-throughput 16S rRNA sequencing and bioinformatics, I found that sticklebacks from different lakes harbored different gut microbes, and that after controlling for food-associated and environmental microbes the gut microbiota appeared to be under genetic control. Next, I collaborated with the Bolnick Lab to examine changes in gut microbiota in response to macro-parasite infection. Our findings in sticklebacks are important for understanding the factors at play during population differentiation and for understanding the factors that may shape the gut microbiota more generally.
 
@@ -111,7 +120,11 @@ To explain differences in gut microbial communities we must determine how proces
 Smith et al. 2015, *ISME J*\
 LInk  et al. 2020, *ISME J*
 
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
