@@ -118,7 +118,7 @@ To explain differences in gut microbial communities we must determine how proces
 
 ###### Relevant publications:
 Smith et al. 2015, *ISME J*\
-LInk  et al. 2020, *ISME J*
+Ling  et al. 2020, *ISME J*
 
 &nbsp;
 &nbsp;
