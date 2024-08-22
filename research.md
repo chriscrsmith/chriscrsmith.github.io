@@ -7,6 +7,13 @@ permalink: /research
 
 
 
+
+
+
+
+
+
+
 #### Machine learning tools for spatial demographic inference
 
 ![northamerica](assets/img/northamerica.jpg){: width="500" }
@@ -25,7 +32,7 @@ This method is useful for identifying barriers to migration, source-sink dynamic
 ###### Software:
 [disperseNN](https://github.com/kr-colab/disperseNN)\
 [disperseNN2](https://dispersenn2.readthedocs.io/en/latest/)\
-[mapNN](https://github.com/kr-colab/mapNN)\
+[mapNN](https://github.com/kr-colab/mapNN)
 
 ###### Relevant publications:
 Smith et al. 2023, *Genetics*\
@@ -95,7 +102,7 @@ Innes et al. 2023, *Heredity*
 
 #### Host-microbe interactions
 
-![microbes](assets/img/microbes.jpg){: width="500" }
+![microbes](assets/img/microbe.jpg){: width="500" }
 
 To explain differences in gut microbial communities we must determine how processes regulating microbial community assembly (colonization, persistence) differ among hosts and affect microbiota composition. With the Bolnick Lab, I studied natural populations of threespine stickleback (Gasterosteus aculeatus), a small fish, to identify major pathways of microbial colonization of the gastrointestinal tract. Using high-throughput 16S rRNA sequencing and bioinformatics, I found that sticklebacks from different lakes harbored different gut microbes, and that after controlling for food-associated and environmental microbes the gut microbiota appeared to be under genetic control. Next, I collaborated with the Bolnick Lab to examine changes in gut microbiota in response to macro-parasite infection. Our findings in sticklebacks are important for understanding the factors at play during population differentiation and for understanding the factors that may shape the gut microbiota more generally.
 
@@ -103,4 +110,16 @@ To explain differences in gut microbial communities we must determine how proces
 ###### Relevant publications:
 Smith et al. 2015, *ISME J*\
 LInk  et al. 2020, *ISME J*
+
+
+
+
+
+#### Knowledge-guided machine learning for estimating methane uptake by soil microbes
+
+Methane is arguably the most important greenhouse gas to mitigate, however the natural sources and sinks for methane are not well understood.
+With Dr. Youmi Oh I am developing a machine learning approach for quantifying the methane soil sink that incorporates (i) information about the underlying biogeochemical process, (ii) chamber measurements, (iii) tower measurements, and (iv) satellite measurements.
+
+
+
 
