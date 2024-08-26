@@ -23,9 +23,9 @@ Obtaining estimates for such parameters is important for studying range shifts i
 A promising strategy for inferring demographic parameters is using spatial genomic data.
 However, current genetics-based methods have constraints that prevent their use in many species, leaving a critical gap in our methods toolbox.
 
-During my postdoc I have developed machine learning approaches for estimating dispersal rate from population genetic data.
+I have developed machine learning approaches for estimating dispersal rate from population genetic data.
 These methods can be used with single nucleotide polymorphism datasets, making it possible to infer dispersal rate for species with limited genomic resources.
-Currently I am working on a tool for estimating maps of population density and dispersal across a landscape.
+Most recently I developed a tool for estimating maps of population density and dispersal across a landscape.
 This method is useful for identifying barriers to migration, source-sink dynamics, or population-dense areas, and I have applied it to publicly available North American grey wolf data.
 
 
