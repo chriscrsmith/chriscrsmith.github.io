@@ -9,6 +9,25 @@ permalink: /research
 
 
 
+#### Machine learning for estimating wetland mathane emissions
+
+![upscaling](assets/img/upscaling.jpg){: width="750" }
+
+
+Natural methane emissions from wetlands are a major contributor to the atmospheric methane budget and changing climate.
+In addition, earth system models have raised concerns about a positive feedback loop involving the release of methane as a result of melting of the arctic permafrost.
+Thus, to fully characterize the global methane cycle and ultimately guide mitigation strategies, a crucial goal is to accurately quantify emissions produced by wetlands.
+
+My project is merging (i) a process based model and (ii) machine learning to improve methane estimates.
+I applied transfer learning techniques—--pre-training, domain-adaptation, cross-domain model stacking, etc---to augment our limited training set with abundant, simulated outputs from the process based model to improve cross validation accuracy.
+I also explored various remotely sensed variables, including building a CNN to extract spatial features from MODIS images, but it was not advantageous to use these data in the final model.
+Global upscaling gave a total emissions estimate that was intermediate between current process-based and machine learning-based outputs for wetlands: 143 Tg/yr.
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 
@@ -23,10 +42,10 @@ Obtaining estimates for such parameters is important for studying range shifts i
 A promising strategy for inferring demographic parameters is using spatial genomic data.
 However, current genetics-based methods have constraints that prevent their use in many species, leaving a critical gap in our methods toolbox.
 
-I have developed machine learning approaches for estimating dispersal rate from population genetic data.
+I developed machine learning approaches for estimating dispersal rate from population genetic data.
 These methods can be used with single nucleotide polymorphism datasets, making it possible to infer dispersal rate for species with limited genomic resources.
 Most recently I developed a tool for estimating maps of population density and dispersal across a landscape.
-This method is useful for identifying barriers to migration, source-sink dynamics, or population-dense areas, and I have applied it to publicly available North American grey wolf data.
+This method is useful for identifying barriers to migration, source-sink dynamics, or population-dense areas, and I applied it to publicly available North American grey wolf data.
 
 
 ###### Software:
@@ -125,14 +144,6 @@ Ling  et al. 2020, *ISME J*
 &nbsp;
 &nbsp;
 &nbsp;
-
-
-
-#### Knowledge-guided machine learning for estimating methane uptake by soil microbes
-
-Methane is arguably the most important greenhouse gas to mitigate, however the natural sources and sinks for methane are not well understood.
-With Dr. Youmi Oh I am developing a machine learning approach for quantifying the methane soil sink that incorporates (i) information about the underlying biogeochemical process, (ii) chamber measurements, (iii) tower measurements, and (iv) satellite measurements.
-
 
 
 
