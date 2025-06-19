@@ -9,7 +9,7 @@ permalink: /research
 
 
 
-#### Machine learning for estimating wetland mathane emissions
+#### Machine learning for estimating wetland methane emissions
 
 ![upscaling](assets/img/upscaling.jpg){: width="750" }
 
@@ -20,7 +20,7 @@ Thus, to fully characterize the global methane cycle and ultimately guide mitiga
 
 My project is merging (i) a process based model and (ii) machine learning to improve methane estimates.
 I applied transfer learning techniques—--pre-training, domain-adaptation, cross-domain model stacking, etc---to augment our limited training set with abundant, simulated outputs from the process based model to improve cross validation accuracy.
-I also explored various remotely sensed variables, including building a CNN to extract spatial features from MODIS images, but it was not advantageous to use these data in the final model.
+I also built a CNN branch to extract spatial features from MODIS (and Landsat) images to improve methane estimation.
 Global upscaling gave a total emissions estimate that was intermediate between current process-based and machine learning-based outputs for wetlands: 143 Tg/yr.
 
 &nbsp;
