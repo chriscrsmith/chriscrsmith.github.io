@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-I develop creative machine learning architectures for biodiversity science.
+I develop custom machine learning architectures for biodiversity science.
 
 
 

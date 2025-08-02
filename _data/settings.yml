@@ -21,4 +21,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Chris Smith', title: 'Postdoctoral Associate', department: 'Cooperative Institute for Research in Environmental Sciences', institution: 'University of Colorado Boulder', institution_address: 'Boulder, CO', email: 'chriscs at colorado dot edu'}
+- {name: 'Chris Smith', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu dot edu'}
