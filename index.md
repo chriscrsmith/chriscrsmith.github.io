@@ -3,7 +3,9 @@ layout: home
 title: "Home"
 ---
 
-I develop custom machine learning architectures for biodiversity science.
+New faculty at Indiana University Bloomington.
+
+I am building up a research lab exploring machine learning approaches for population and evolutionary genetics.
 
 
 
