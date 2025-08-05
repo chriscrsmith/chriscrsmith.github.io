@@ -7,10 +7,6 @@ permalink: /research
 
 
 
-## Primary research focus
-
-
-
 
 #### Machine learning tools for spatial demographic inference
 
