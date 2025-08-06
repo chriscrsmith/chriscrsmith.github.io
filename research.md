@@ -25,9 +25,10 @@ This method is useful for identifying barriers to migration, source-sink dynamic
 
 
 ###### Software:
-[disperseNN](https://github.com/kr-colab/disperseNN)\
-[disperseNN2](https://dispersenn2.readthedocs.io/en/latest/)\
 [mapNN](https://github.com/kr-colab/mapNN)
+[disperseNN2](https://dispersenn2.readthedocs.io/en/latest/)\
+[disperseNN](https://github.com/kr-colab/disperseNN)\
+
 
 ###### Relevant publications:
 Smith et al. 2023, *Genetics*\

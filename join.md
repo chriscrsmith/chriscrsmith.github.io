@@ -13,4 +13,4 @@ Generally I am looking for postdocs with computational experience and an appetit
 
 
 ##### Others
-Reach out if you want to join forces in the beginning stages of the new lab.
+Reach out if you are interested in joining forces in the beginning stages of the new lab.
