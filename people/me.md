@@ -21,5 +21,5 @@ Links to some other people:
 - [Chris Smith](https://people.willamette.edu/~csmith/ChrisSmith.htm) the conservation geneticist at Willamette University in Oregon.
 - [Chris Smith](https://www.hcmr.gr/en/portfolio/smith-christopher-j/) the marine biologist.
 - [Chris Smith](https://cjsmith.be/) doing climate science in Belgium.
-- Another [Smith Lab](https://biology.indiana.edu/about/faculty/smith-troy.html) at IU, Troy Smith.
+- The other Smith Lab in the biology dept at IU, [Troy Smith](https://biology.indiana.edu/about/faculty/smith-troy.html).
 
