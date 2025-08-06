@@ -7,6 +7,7 @@ permalink: /research
 
 
 
+## Current Research
 
 #### Machine learning tools for spatial demographic inference
 
@@ -19,7 +20,7 @@ However, current genetics-based methods have constraints that prevent their use 
 
 I developed machine learning approaches for estimating dispersal rate from population genetic data.
 These methods can be used with single nucleotide polymorphism datasets, making it possible to infer dispersal rate for species with limited genomic resources.
-Most recently I developed a tool for estimating maps of population density and dispersal across a landscape.
+Next, I developed a tool for estimating maps of population density and dispersal across a landscape.
 This method is useful for identifying barriers to migration, source-sink dynamics, or population-dense areas, and I applied it to publicly available North American grey wolf data.
 
 
