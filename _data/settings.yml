@@ -21,4 +21,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Chris Smith', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu dot edu'}
+- {name: 'Chris Smith', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu dot edu'}
