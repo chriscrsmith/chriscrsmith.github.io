@@ -7,7 +7,7 @@ menu:
 - {name: 'contact', url: '/contact'}
 
 people:
-- {name: 'Chris', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu dot edu', image: 'assets/img/headshot.jpg', url: 'me'}
+- {name: 'Chris', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu.edu', image: 'assets/img/headshot.jpg', url: 'me'}
 #- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 #- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
@@ -22,4 +22,4 @@ social:
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
-- {name: 'Chris Smith', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu dot edu'}
+- {name: 'Chris Smith', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University Bloomington', institution_address: 'Bloomington, IN', email: 'chriscs at iu.edu'}

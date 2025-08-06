@@ -3,7 +3,7 @@ layout: page
 title: "Chris"
 ---
 
-Email: chriscs at iu dot edu
+Email: chriscs at iu.edu
 
 ---
 
