@@ -129,7 +129,7 @@ Ling  et al. 2020, *ISME J*
 
 
 
-#### Machine learning for estimating wetland methane emissions
+#### Machine learning for estimating methane emissions from natural microbes
 
 ![upscaling](assets/img/upscaling.jpg){: width="750" }
 
