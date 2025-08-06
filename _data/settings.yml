@@ -3,7 +3,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'software', url: '/software'}
 - {name: 'people', url: '/people'}
-- {name: 'join forces?', url: '/join'}
+- {name: 'join', url: '/join'}
 - {name: 'contact', url: '/contact'}
 
 people:
