@@ -3,6 +3,7 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'software', url: '/software'}
 - {name: 'people', url: '/people'}
+- {name: 'join forces?', url: '/join'}
 - {name: 'contact', url: '/contact'}
 
 people:
@@ -17,7 +18,7 @@ people:
 
 social:
 - {icon: 'github', link: 'https://github.com/chriscrsmith'}
-#- {icon: 'twitter', link: 'https://twitter.com/chriscrsmith'}
+- {icon: 'twitter', link: 'https://twitter.com/chriscrsmith'}
 #- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
 
 contacts:
