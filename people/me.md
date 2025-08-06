@@ -15,7 +15,7 @@ Before that, I journeyed to the University of Oregon to work with Andy Kern.
 I did my PhD at CU Boulder with Sam Flaxman and Nolan Kane.
 Earlier research experiences include lab technician work with Micheal Turelli at UC Davis and undergraduate research with Dan Bolnick at UT Austin.
 
-Links to some other people:
+Links to some people with similar names:
 - [Chris Smith](https://artsci.usu.edu/biology/directory/smith-chris) at Utah State who is also a molecular ecologist.
 - [Chris Smith](https://people.willamette.edu/~csmith/ChrisSmith.htm) the conservation geneticist at Willamette University in Oregon.
 - [Chris Smith](https://www.hcmr.gr/en/portfolio/smith-christopher-j/) the marine biologist.
