@@ -9,7 +9,7 @@ Email: chriscs at iu.edu
 
 There are many Chris Smiths out there.
 This one is a new faculty at IU Bloomington.
-I publish as "Chris CR Smith", and my google scholar profile is "[Chris CR Smith](https://scholar.google.com/citations?hl=en&user=ZHHGVn8AAAAJ)".
+I publish as "Chris CR Smith" and my google scholar profile is "[Chris CR Smith](https://scholar.google.com/citations?hl=en&user=ZHHGVn8AAAAJ)".
 Before Indiana I did a brief postdoc in	the Cooperative	Institute for Environmental Sciences at	CU Boulder.
 Before that, I journeyed to the University of Oregon to work with Andy Kern.
 I did my PhD at CU Boulder with Sam Flaxman and Nolan Kane.
