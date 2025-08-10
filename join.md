@@ -7,9 +7,7 @@ permalink: /join
 
 
 ##### Postdocs
-I am actively recruiting a postdoc, please apply [here](https://indiana.peopleadmin.com/postings/30325).
-
-Generally I am looking for postdocs with computational experience and an appetite for machine learning work in	biology.
+I am actively recruiting a postdoc, please apply [here](https://indiana.peopleadmin.com/postings/30325). Looking for postdocs with computational experience and an appetite for machine learning work in	biology.
 
 
 ##### Others
