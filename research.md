@@ -59,10 +59,9 @@ Smith et al. 2024, *Molecular Ecology Resources*
 ![barnswallow](assets/img/barnswallow.jpg){: width="500" }
 
 To conserve biodiversity it is important to understand how populations diverge into new species.
-In collaboration with Dr. Rebecca Safran’s lab, I analyzed the timescale of divergence between barn swallow subspecies (*Hirundo rustica*) using whole genome sequencing data.
+In collaboration with Rebecca Safran’s lab, I analyzed the timescale of divergence between barn swallow subspecies (*Hirundo rustica*) using whole genome sequencing data.
 My analysis indicated subspecies divergence to be an order of magnitude more recent than the previously published estimate that was based on mitochondrial DNA.
-
-Related, Sam Flaxman and I also showed that haplotype-based summary statistics improve demographic inference using whole genome data with approximate Bayesian computation.
+Related, Sam Flaxman and I showed that haplotype-based summary statistics improve demographic inference using whole genome data with approximate Bayesian computation.
 
 ###### Relevant publications:
 Smith et al. 2018, *Molecular Ecology*\
@@ -85,7 +84,7 @@ Smith and Flaxman, 2020, *Molecular Ecology Resources*
 
 ![splicing](assets/img/splicing.jpg){: width="500" }
 
-With Dr. Nolan Kane and colleagues I found differentially-spliced mRNA isoforms between wild and domesticated sunflowers (*Helianthus annuus*).
+With Nolan Kane and colleagues I found differentially-spliced mRNA isoforms between wild and domesticated sunflowers (*Helianthus annuus*).
 Ours is one of the first studies to explore transcriptome-wide splicing differentiation between closely related plant populations.
 Next, we discovered incorrectly-spliced transcripts in hybrid sunflowers.
 The erroneous transcripts were negatively associated with seedling growth rate, and many were regulated by multiple alleles with nonadditive interactions.
