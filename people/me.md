@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Chris (disambiguation)"
+title: "Disambiguation"
 ---
 
 Email: chriscs at iu.edu
