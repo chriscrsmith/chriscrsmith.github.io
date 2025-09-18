@@ -5,10 +5,4 @@ permalink: /join
 ---
 
 
-
-##### Postdocs
-I am actively recruiting a postdoc  with computational experience and an appetite for machine learning work in	biology.
-
-
-##### Others
-Reach out if you are interested in joining forces in the beginning stages of the new lab.
+I am actively recruiting postdocs and students with computational experience. Reach out if you are interested in joining forces in the beginning stages of the new lab.
