@@ -8,8 +8,7 @@ Email: chriscs at iu.edu
 ---
 
 There are many Chris Smiths out there.
-This one just started at Indiana University.
-I publish as "Chris CR Smith" and my google scholar profile is "[Chris CR Smith](https://scholar.google.com/citations?hl=en&user=ZHHGVn8AAAAJ)".
+This one publishes as "[Chris CR Smith](https://scholar.google.com/citations?hl=en&user=ZHHGVn8AAAAJ)" and just started at Indiana University.
 Before, I did a brief postdoc at	CU Boulder.
 Before that, I journeyed to the University of Oregon to work with Andy Kern.
 I did my PhD at CU Boulder with Sam Flaxman and Nolan Kane.
