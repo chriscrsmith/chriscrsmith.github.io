@@ -5,4 +5,4 @@ permalink: /join
 ---
 
 
-I am actively recruiting postdocs and students with computational experience. Reach out if you are interested in joining forces in the beginning stages of the new lab.
+I am actively recruiting students and postdocs with computational experience. Reach out if you are interested in joining forces in the beginning stages of the new lab.

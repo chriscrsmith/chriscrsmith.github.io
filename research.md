@@ -126,26 +126,3 @@ Smith et al. 2015, *ISME J*
 
 
 
-
-#### Estimating methane emissions from natural microbes
-
-![upscaling](assets/img/upscaling.jpg){: width="750" }
-
-
-Natural methane emissions from wetlands are a major contributor to the atmospheric methane budget and changing climate.
-In addition, earth system models have raised concerns about a positive feedback loop involving the release of methane as a result of melting of the arctic permafrost.
-Thus, to fully characterize the global methane cycle and ultimately guide mitigation strategies, a crucial goal is to accurately quantify emissions produced by wetlands.
-
-My project is merging (i) a process based model and (ii) machine learning to improve methane estimates.
-I applied transfer learning techniques—--pre-training, domain-adaptation, cross-domain model stacking, etc---to augment our limited training set with abundant, simulated outputs from the process based model to improve cross validation accuracy.
-I also built a CNN branch to extract spatial features from MODIS (and Landsat) images to improve methane estimation.
-Global upscaling gave a total emissions estimate that was intermediate between current process-based and machine learning-based outputs for wetlands: 143 Tg/yr.
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-
-
