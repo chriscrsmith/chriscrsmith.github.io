@@ -4,6 +4,10 @@ title: Software
 permalink: /software
 ---
 
+
+##### [LinkedNN](https://pypi.org/project/linkednn/)
+Neural network for recent effective population size estimation using long-distance linkage disequilibrium-related features.
+
 ##### [mapNN](https://github.com/kr-colab/mapNN)
 Estimating geographic maps of population density and dispersal from genetic data.
 
