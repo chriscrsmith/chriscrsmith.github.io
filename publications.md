@@ -20,8 +20,8 @@ Jeffery B, [50 additional authors], Kelleher J.
 *New Phytologist*. 2025\
 Innes PA, Kane NC, Smith CC.
 
-**Accessible, realistic genome simulation with selection using stdpopsim.\
-*Molecular Biology and Evolution**. 2025.\
+**Accessible, realistic genome simulation with selection using stdpopsim.**\
+*Molecular Biology and Evolution*. 2025.\
 Gower G, [29 additional authors], Kern AD.
 
 **Population genetics meets ecology: a guide to individual-based simulations in continuous landscapes.**\
