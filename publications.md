@@ -8,14 +8,29 @@ permalink: /publications
 &nbsp;
 &nbsp;
 
+**LinkedNN: a neural model of linkage disequilibrium decay for recent effective population size inference.**\
+*arXiv*. 2026. 10.48550/arXiv.2602.13121.\
+Smith CC.
 
-**Estimation of spatial demographic maps from polymorphism data using a neural network**\
-*Molecular Ecology Resources*. 2024.\
-Smith CC, G Patterson, PL Ralph, AD Kern.
+**Population-scale Ancestral Recombination Graphs with tskit 1.0.**\
+*arXiv*. 2026.\
+Jeffery B, [50 additional authors], Kelleher J.
+
+**Evolutionary genetics of alternative splicing in plants.**\
+*New Phytologist*. 2025\
+Innes PA, Kane NC, Smith CC.
+
+**Accessible, realistic genome simulation with selection using stdpopsim.\
+*Molecular Biology and Evolution**. 2025.\
+Gower G, [29 additional authors], Kern AD.
 
 **Population genetics meets ecology: a guide to individual-based simulations in continuous landscapes.**\
-*bioRxiv*. 2024 \
+*Ecology and Evolution*. 2025 \
 Chevy ET, Min J, Caudill V, Champer SE, Haller BC, Rehman CT, Smith CCR, Tittes S, Messer PW, Kern AD, Ramachandran S, Ralph PL.
+
+**Estimation of spatial demographic maps from polymorphism data using a neural network.**\
+*Molecular Ecology Resources*. 2024.\
+Smith CC, G Patterson, PL Ralph, AD Kern.
 
 **disperseNN2: a neural network for estimating dispersal rate from georeferenced polymorphism data.**\
 *BMC Bioinformatics*. 2023.\
