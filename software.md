@@ -4,6 +4,8 @@ title: Software
 permalink: /software
 ---
 
+##### [Wetland Methane ML pipeline](https://github.com/KGML-CH4/wetland_methane_ML)
+Repo for global wetland methane estimation using machine learning.
 
 ##### [LinkedNN](https://pypi.org/project/linkednn/)
 Neural network for recent effective population size estimation using long-distance linkage disequilibrium-related features.

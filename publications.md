@@ -8,6 +8,10 @@ permalink: /publications
 &nbsp;
 &nbsp;
 
+(in prep) **Integrating machine learning with a process-based model for estimating global wetland methane emissions**\
+*Intended for Geophysical Research Letters.*\
+Smith CC, Chen S, Malone SL, McNicol G, Zhu Q, Liu L, Oh Y.
+
 **LinkedNN: a neural model of linkage disequilibrium decay for recent effective population size inference.**\
 *arXiv*. 2026. 10.48550/arXiv.2602.13121.\
 Smith CC.
