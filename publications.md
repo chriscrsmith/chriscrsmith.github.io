@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications
 ---
 
-##### [(Google scholar page)](https://scholar.google.com/citations?user=ZHHGVn8AAAAJ&hl=en)
+##### [(Google scholar page)](https://scholar.google.com/citations?user=9ymVDYkAAAAJ&hl=en&oi=ao)
 &nbsp;
 &nbsp;
 
