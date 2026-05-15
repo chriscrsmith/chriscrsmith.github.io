@@ -10,27 +10,7 @@ permalink: /research
 ## Current Research
 
 
-#### Estimating methane emissions from natural microbes
 
-![upscaling](assets/img/upscaling.jpg){: width="750" }
-
-
-Natural methane emissions from wetlands are a major contributor to the atmospheric methane budget and changing climate.
-In addition, earth system models have raised concerns about a potential feedback loop due to the release of methane from melting of arctic permafrost.
-Thus, to fully characterize the global methane cycle and ultimately guide mitigation strategies, a crucial goal is to accurately quantify emissions produced by wetlands.
-
-I developed a machine learning framework for modeling natural wetland emissions.
-The architecture is multi-model, using a CNN branch to extract spatial features from MODIS imagery.
-In addition, I applied transfer learning techniques—--pre-training, domain-adaptation, cross-domain model stacking, etc---to augment the limited training set with abundant, simulated outputs from a process based model to improve performance.
-
-###### Software:
-[Wetland Methane ML pipeline](https://github.com/KGML-CH4/wetland_methane_ML)
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 
 
