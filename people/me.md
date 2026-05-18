@@ -9,8 +9,8 @@ Email: chriscs at iu.edu
 
 There are many Chris Smiths out there.
 This one publishes as "[Chris CR Smith](https://scholar.google.com/citations?user=9ymVDYkAAAAJ&hl=en&oi=ao)" and just started at Indiana University.
-Before, I did a brief postdoc at	CU Boulder.
-Before that, I postdoc'ed at the University of Oregon with Andy Kern.
+Before, I did a brief postdoc at CU Boulder.
+Before that, I postdoc'ed at the University of Oregon with Andy Kern and Peter Ralph.
 I did my PhD at CU Boulder with Sam Flaxman and Nolan Kane.
 
 Some people with similar names that I get emails about:
