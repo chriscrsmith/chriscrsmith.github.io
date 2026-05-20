@@ -12,6 +12,10 @@ permalink: /publications
 *arXiv*. 2026. 10.48550/arXiv.2602.13121.\
 Smith CC.
 
+**Integrating machine learning with a process-based model for estimating global wetland methane emissions.**\
+*EarthArXiv*. 2026.\
+Smith CC, Chen S, Malone SL, McNicol G, Zhu Q, Liu L, Oh Y.
+
 **Population-scale Ancestral Recombination Graphs with tskit 1.0.**\
 *arXiv*. 2026.\
 Jeffery B, [50 additional authors], Kelleher J.
