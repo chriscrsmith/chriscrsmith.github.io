@@ -8,13 +8,13 @@ permalink: /publications
 &nbsp;
 &nbsp;
 
-**LinkedNN: a neural model of linkage disequilibrium decay for recent effective population size inference.**\
-*arXiv*. 2026. doi: 10.48550/arXiv.2602.13121.\
-Smith CC.
-
 **Integrating machine learning with a process-based model for estimating global wetland methane emissions.**\
 *EarthArXiv*. 2026. doi: 10.31223/X5377D.\
 Smith CC, Chen S, Malone SL, McNicol G, Zhu Q, Liu L, Oh Y.
+
+**LinkedNN: a neural model of linkage disequilibrium decay for recent effective population size inference.**\
+*arXiv*. 2026. doi: 10.48550/arXiv.2602.13121.\
+Smith CC.
 
 **Population-scale Ancestral Recombination Graphs with tskit 1.0.**\
 *arXiv*. 2026.\
