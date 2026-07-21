@@ -1,10 +1,10 @@
 menu:
-- {name: 'research', url: '/research'}
-- {name: 'publications', url: '/publications'}
-- {name: 'software', url: '/software'}
-- {name: 'people', url: '/people'}
-- {name: 'join', url: '/join'}
-- {name: 'contact', url: '/contact'}
+- {name: 'Research', url: '/research'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Software', url: '/software'}
+- {name: 'People', url: '/people'}
+- {name: 'Join', url: '/join'}
+- {name: 'Contact', url: '/contact'}
 
 people:
 - {name: 'Chris', title: 'Assistant Professor', department: 'Department of Biology', institution: 'Indiana University', institution_address: 'Bloomington, IN', email: 'chriscs at iu.edu', image: 'assets/img/headshot.jpg', url: 'me'}

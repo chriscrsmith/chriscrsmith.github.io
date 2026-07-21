@@ -6,10 +6,12 @@ permalink: /join
 
 
 **Postdocs**
+
 Actively hiring a postdoc with computational experience: https://indiana.peopleadmin.com/postings/32547 
 
 
 **Students**
+
 Recruiting through Biology (PhD program), Informatics (PhD, or masters capstone), and potentially others.
 
 
