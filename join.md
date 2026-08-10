@@ -12,7 +12,6 @@ Actively hiring a postdoc with computational experience: https://indiana.peoplea
 
 **Students**
 
-Recruiting through Biology (PhD program), Informatics (PhD, or masters capstone), and potentially others.
-
+Recruiting through [Biology](https://biology.indiana.edu/graduate/evolution-ecology-behavior/index.html) (PhD program), [Informatics](https://cbr.indiana.edu/index.html) (PhD, or masters capstone), and potentially others.
 
 Reach out (chriscs@iu.edu) if you are interested in joining forces in the beginning stages of the new lab.
