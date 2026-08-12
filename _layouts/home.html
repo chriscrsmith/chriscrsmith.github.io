@@ -7,17 +7,33 @@ layout: default
     <!-- <h3 class="fw-bold">Research</h3> -->
     {{ content }}
   </div>
-  <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/wolves.jpg" alt="Home" width="100%">
-    <p><small><small>Photo credit: U.S. Fish and Wildlife Service</small></small></p>
+  <!-- <div class="col-md-6"> -->
+  <!--   <img src="{{ site.github.url }}/assets/img/wolves.jpg" alt="Home" width="100%"> -->
+  <!--   <p><small><small>Photo credit: U.S. Fish and Wildlife Service</small></small></p> -->
+    <!-- </div> -->
+  <div class="figure-rotator">
+    <img id="rotating-figure" src="{{ site.github.url }}/assets/img/wolves.jpg" alt="Research figure">
   </div>
 </div>
 
-<!-- <div class="row g-5 mb-5"> -->
-<!--   <div class="col-md-12"> -->
-<!--     <h3 class="fw-bold border-bottom pb-3 mb-5">Updates</h3> -->
-<!--     {% for post in site.posts %} -->
-<!--       <p><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %-d, %Y" }}</p> -->
-<!--     {% endfor %} -->
-<!--   </div> -->
-<!-- </div> -->
+<script>
+  const figures = [
+    "{{ site.github.url }}/assets/img/barnswallow.jpg",
+    "{{ site.github.url }}/assets/img/circos.jpg",
+    "{{ site.github.url }}/assets/img/microbe.jpg",
+    "{{ site.github.url }}/assets/img/splicing.jpg"
+  ];
+
+  let current = 0;
+  const image = document.getElementById("rotating-figure");
+
+  setInterval(() => {
+    image.classList.add("fade-out");
+
+    setTimeout(() => {
+      current = (current + 1) % figures.length;
+      image.src = figures[current];
+      image.classList.remove("fade-out");
+    }, 500);
+  }, 5000);
+</script>
