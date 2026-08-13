@@ -4,24 +4,22 @@ layout: default
 
 <div class="row g-5 mb-5">
   <div class="col-md-6">
-    <!-- <h3 class="fw-bold">Research</h3> -->
     {{ content }}
   </div>
-  <!-- <div class="col-md-6"> -->
-  <!--   <img src="{{ site.github.url }}/assets/img/wolves.jpg" alt="Home" width="100%"> -->
-  <!--   <p><small><small>Photo credit: U.S. Fish and Wildlife Service</small></small></p> -->
-    <!-- </div> -->
-  <div class="figure-rotator">
-    <img id="rotating-figure" src="{{ site.github.url }}/assets/img/wolves.jpg" alt="Research figure">
+
+  <div class="col-md-6">
+    <div class="figure-rotator">
+      <img id="rotating-figure" src="{{ site.github.url }}/assets/img/positional_coefficients.jpg" alt="Research figure">
+    </div>
   </div>
 </div>
 
 <script>
   const figures = [
-    "{{ site.github.url }}/assets/img/barnswallow.jpg",
+    "{{ site.github.url }}/assets/img/psmc.jpg",
+    "{{ site.github.url }}/assets/img/northamerica.jpg",
     "{{ site.github.url }}/assets/img/circos.jpg",
     "{{ site.github.url }}/assets/img/microbe.jpg",
-    "{{ site.github.url }}/assets/img/splicing.jpg"
   ];
 
   let current = 0;
